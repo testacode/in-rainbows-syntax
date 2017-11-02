@@ -2,4 +2,4 @@
 
 Inspired in Radiohead's "In Rainbows" album. Feel free to fork it and modify it.
 
-![A screenshot of your theme](https://imgur.com/h9sAITj)
+![A screenshot of your theme](https://i.imgur.com/h9sAITj.jpg)
