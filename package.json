@@ -1,13 +1,12 @@
 {
-  "name": "ui-theme-template",
-  "theme": "ui",
+  "name": "in-rainbows-syntax",
+  "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your UI theme",
+  "description": "A rainbowed string syntax.",
   "keywords": [
-    "ui",
-    "theme"
+    "syntax"
   ],
-  "repository": "https://github.com/atom-community/ui-theme-template",
+  "repository": "https://github.com/atom-community/in-rainbows-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
