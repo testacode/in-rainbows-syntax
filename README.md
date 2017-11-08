@@ -1,4 +1,4 @@
-# In Rainbows Syntax Theme
+# In Rainbows Syntax Theme for Atom editor
 
 Inspired in Radiohead's "In Rainbows" album. Feel free to fork it and modify it.
 
